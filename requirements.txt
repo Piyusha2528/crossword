@@ -1,0 +1,2 @@
+# Intentionally dependency-free (Python 3.11+).
+
