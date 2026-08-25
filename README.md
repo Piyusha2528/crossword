@@ -6,6 +6,9 @@ Aster & Row is a fictional ecommerce company that sells bags, drinkware, and tra
 
 This repository intentionally contains **only content and data**. There is no starter application and no prescribed stack. Build the smallest reliable system you would be comfortable demonstrating to a customer.
 
+## Demo Video
+link:
+
 ## Timebox
 
 Please spend **6–8 hours** on the assignment. Do not exceed eight hours.
